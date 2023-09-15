@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<license>
+	<account-name>Liferay, Inc.</account-name>
+	<owner>Henrique Pereira</owner>
+	<description>Liferay, Inc. Developer Activation Keys</description>
+	<product-name>DXP Development</product-name>
+	<product-version>7.4</product-version>
+	<license-name>Digital Enterprise Development</license-name>
+	<license-type>developer</license-type>
+	<license-version>6</license-version>
+	<start-date>Thursday, August 10, 2023 6:34:27 PM GMT</start-date>
+	<expiration-date>Saturday, July 17, 2123 6:34:27 PM GMT</expiration-date>
+	<max-http-sessions>5</max-http-sessions>
+	<key>d6480d4338d767d2c354111c21ffa41061c6b4023b970f8810dc0280785e06f066c99b5fe406aff3f9ebf3998a4cc42c2745613f91e0fdc01fd4b39389db40211874bd80b230de031b7ff941f2cb1b4a6b5ce798ec12e4ecad479827d7bbc8384c41cc0353b642cdf962a0a791850356788e06cc95985836addd9274578e4e02f0e98f8d</key>
+</license>
