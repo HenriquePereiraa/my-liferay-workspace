@@ -4,7 +4,7 @@
 ## Creating a Liferay Workspace with Blade CLI
 - blade init -v [Liferay version] [workspace name]
     - Example:
-        blade init -v 7.4 my-workspace-name
+        *blade init -v 7.4 my-workspace-name*
 
 ## Using the Themes Generator with Liferay Workspace
 - blade create -t js-theme [project-name]
